@@ -2178,7 +2178,7 @@
 		}
 
 			.image.left img, .image.right img {
-				width: 150px;
+				width: 6em;
                                 border-radius: 100%;
 			}
 
