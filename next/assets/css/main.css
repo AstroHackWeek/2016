@@ -2178,7 +2178,7 @@
 		}
 
 			.image.left img, .image.right img {
-				width: 6em;
+				width: 4em;
                                 border-radius: 100%;
 			}
 
@@ -3702,3 +3702,40 @@
 		}
 
 	}
+
+
+        /* speakers section */
+
+        .speakers .image {
+            display: block;
+	    padding: 0 0 1em 0;
+	    width: 100%;
+            /* max-width: 40%; */
+            text-align: center;
+        }
+
+        .speakers .image img {
+            float: none;
+            display: inline;
+            width: 10em;
+            border-radius: 100%;
+        }
+
+        .speakers h3 {
+            text-align: center;
+            margin-bottom: 0;
+        }
+
+        .speakers p {
+            font-size: 90%;
+            text-align: center;
+        }
+
+        .organizers .image img {
+            width: 5em;
+        }
+
+        .organizers h4 {
+            text-align: center;
+            margin-bottom: 0;
+        }
