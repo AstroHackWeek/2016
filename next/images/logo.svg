@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="156"
+   height="156"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/kyle/code/astrohackweek.github.io/next/images/logo.png"
+   inkscape:export-xdpi="18.459999"
+   inkscape:export-ydpi="18.459999">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="6.5757938"
+     inkscape:cy="66.763718"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1859"
+     inkscape:window-height="1050"
+     inkscape:window-x="61"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-9.9999981,-561.36218)">
+    <rect
+       style="fill:#3a3f53;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect2985"
+       width="156"
+       height="156"
+       x="9.9999981"
+       y="561.36218"
+       ry="14.392857" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.92419997,0,0,1.0742943,-9.2823401,388.88899)"><flowRegion
+         id="flowRegion2989"><rect
+           id="rect2991"
+           width="124.28572"
+           height="154.99997"
+           x="97.14286"
+           y="174.28572"
+           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara2993"
+         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Purisa;-inkscape-font-specification:Purisa">H</flowPara></flowRoot>    <flowRoot
+       transform="translate(-98.763929,402.44605)"
+       xml:space="preserve"
+       id="flowRoot2987-1"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion2989-8"><rect
+           id="rect2991-7"
+           width="492.85715"
+           height="270"
+           x="97.14286"
+           y="174.28572" /></flowRegion><flowPara
+         id="flowPara2993-5"
+         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Purisa;-inkscape-font-specification:Purisa">A</flowPara></flowRoot>  </g>
+</svg>
