@@ -1702,7 +1702,7 @@
 	}
 
 		a:hover {
-			border-bottom-color: transparent;
+			border-bottom-style: solid;
 			color: #ffffff !important;
 		}
 
